@@ -1,0 +1,16 @@
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\TrainSystem.exe
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\TrainSystem.deps.json
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\TrainSystem.runtimeconfig.json
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\TrainSystem.runtimeconfig.dev.json
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\TrainSystem.dll
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\ref\TrainSystem.dll
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\bin\Debug\net5.0\TrainSystem.pdb
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.AssemblyInfoInputs.cache
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.AssemblyInfo.cs
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.dll
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\ref\TrainSystem.dll
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.pdb
+D:\Program Files (x86)\Microsoft VS Code\Projects\CPSC1517\cpsc1517-a03-2021-sep-rlaw-labs-Jwong72\labs\src\TrainSystem\obj\Debug\net5.0\TrainSystem.genruntimeconfig.cache
